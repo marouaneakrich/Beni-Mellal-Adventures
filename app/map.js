@@ -5,4 +5,5 @@ if (Platform.OS === 'web') {
   Map = require('./map.web').default;
 } 
 
+
 export default Map;
