@@ -21,7 +21,7 @@ A beautiful React Native mobile application showcasing the stunning attractions 
 ## 🎥 Demo Video
 
 <div align="center">
-  <a href="https://streamable.com/8mxbza">
+  <a href="https://p93.f3.n0.cdn.zight.com/items/6qu4WGlQ/fb4f257c-933d-4f79-a51f-a53460d355b0.mp4">
     <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="Beni Mellal Adventures Demo" width="600">
   </a>
   <p><em>Click the image above to watch the full demo video</em></p>
