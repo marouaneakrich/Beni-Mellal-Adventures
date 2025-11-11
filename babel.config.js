@@ -5,11 +5,15 @@ module.exports = function(api) {
     plugins: [
       'expo-router/babel',
       'react-native-reanimated/plugin',
-      ['module-resolver', {
-        alias: {
-          'react-native-maps': '@react-native-maps/web',
+      [
+        'module-resolver',
+        {
+          alias: {
+            // ❌ Remove this line — it causes the bundling error
+            // 'react-native-maps': '@react-native-maps/web',
+          },
         },
-      }],
+      ],
     ],
   };
 };

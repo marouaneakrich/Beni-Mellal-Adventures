@@ -1,9 +1,5 @@
-import { Platform } from 'react-native';
+import Map from './map'; // This will auto-resolve to .web.js or .native.js
 
-let Map;
-if (Platform.OS === 'web') {
-  Map = require('./map.web').default;
-} 
-
-
-export default Map;
+export default function MapScreen(props) {
+  return <Map {...props} />;
+}
