@@ -21,21 +21,19 @@ A beautiful React Native mobile application showcasing the stunning attractions 
 ## 🎥 Demo Video
 
 <div align="center">
-  <a href="https://p93.f3.n0.cdn.zight.com/items/6qu4WGlQ/fb4f257c-933d-4f79-a51f-a53460d355b0.mp4">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="Beni Mellal Adventures Demo" width="600">
+  <a href="https://youtube.com/shorts/iM8rp21LyzM">
+    <img src="https://img.youtube.com/vi/iM8rp21LyzM/maxresdefault.jpg" 
+         alt="Beni Mellal Adventures Demo" width="600">
   </a>
   <p><em>Click the image above to watch the full demo video</em></p>
 </div>
 
-**Or download the demo:**
-- [Download MP4 (Direct Link)](./demo/beni-mellal-demo.mp4)
-
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="./screenshots/home.png" alt="Home Screen" width="250">
-  <img src="./screenshots/details.png" alt="Details Screen" width="250">
-  <img src="./screenshots/gallery.png" alt="Gallery Screen" width="250">
+  <img src="https://ik.imagekit.io/ses5xq9vra/1.webp" alt="Home Screen" width="250">
+  <img src="https://ik.imagekit.io/ses5xq9vra/2.webp" alt="Details Screen" width="250">
+  <img src="https://ik.imagekit.io/ses5xq9vra/3.webp" alt="Gallery Screen" width="250">
 </div>
 
 ### Home Screen
